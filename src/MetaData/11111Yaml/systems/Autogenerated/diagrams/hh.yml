@@ -1,0 +1,8 @@
+diagramType: CAD
+name: hh
+primitives:
+  - type: CADClass
+    caseName: NewClass1
+    position: 125, 247
+    size: 100, 66
+    font: DejaVu Sans 9pt
