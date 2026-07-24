@@ -1,0 +1,17 @@
+{
+  "ProjectId": "5ba3a1eb-be6d-4d4f-9358-9adf8bacf33d",
+  "CrpLocalPath": null,
+  "JsonMetadataPath": null,
+  "OnlineCrpUrl": "https://designer.flexberry.net",
+  "OneShotToken": null,
+  "GenPath": "src",
+  "BeforeGenScriptPath": null,
+  "AfterGenScriptPath": null,
+  "GenerationItems": {
+    "Validate": false,
+    "UmlCorrector": false,
+    "Metadata": {
+      "Yaml": true
+    }
+  }
+}
